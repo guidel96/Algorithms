@@ -1,1 +1,7 @@
+Repository for the presentation of the paper "Generalized sorting with predictions" (https://arxiv.org/pdf/2011.00172.pdf).
+The video presentation of the paper can be found at: https://youtu.be/xX_LhHFNmr4
 
+This repo contains: 
+- the pdf file of the paper
+- the slides used for the presentation. Some slides have not been presented but present examples of certificates, which might be helpful to better understand the theory.
+- the notebook used for the implementation. We have tried to put enough comments to make it easier to understand the implementation. The notebook is self contained, as it does not require additional files to be run (no datasets, ...). 
